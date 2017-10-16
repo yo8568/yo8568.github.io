@@ -77,25 +77,25 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Kenneth Chang 張少東"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Web 深海裡的小蝦米"
+  location         : "Taipei, Taiwan"
+  email            : "yo8568@gmail.cm"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
-  facebook         :
+  flickr           : "77883543@N03"
+  facebook         : "yo8568"
   foursquare       :
-  github           :
-  google_plus      :
+  github           : "yo8568"
+  google_plus      : "yo8568"
   keybase          :
-  instagram        :
+  instagram        : "aoidung"
   lastfm           :
-  linkedin         :
-  pinterest        :
+  linkedin         : "yo8568"
+  pinterest        : "yo8568"
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
