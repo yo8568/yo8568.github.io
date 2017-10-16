@@ -2,10 +2,10 @@
 main:
   - title: "工作紀事"
     url: /work-tip/
-  #- title: "About"
-  #   url: https://yo.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "攝影後感"
+    url: /photography/
+  - title: "小編養成"
+    url: /social-editor/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
