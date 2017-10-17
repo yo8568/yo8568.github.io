@@ -4,7 +4,7 @@ title: Photoshop 製作 favicon.ico 然後插入網頁中
 categories:
   - work-tips
 tags:
-  - Linux
+  - Html
   - tips
 ---
 
